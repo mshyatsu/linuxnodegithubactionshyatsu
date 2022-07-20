@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/166e37c9-68d1-4aa2-aaa6-9e77b438a3df/microsoft.web/sites/subscriptions/166e37c9-68d1-4aa2-aaa6-9e77b438a3df/resourceGroups/winnodetest/providers/Microsoft.Web/sites/winnodetest",
+    "appService.deploySubpath": "."
+}
